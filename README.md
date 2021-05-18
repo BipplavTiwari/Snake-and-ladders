@@ -5,7 +5,7 @@ It contains three files in addition to README.md
 + CLASSES.h
 + FUNCTIONS.h
 ----
-To run it keep all of them in same directory and type this in  the terminal
+To run it and play the game, keep all of them in same directory and type this in  the terminal
 ```
     g++ Snake_ladder.cpp -o Snake_ladder.exe
     Snake_ladder.exe
