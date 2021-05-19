@@ -9,7 +9,7 @@ To compile the code and creat an executable, keep all of them in same directory 
 ```
     g++ Snake_ladder.cpp -o Snake_ladder.exe
 ```
-To run it and play the game type
+To run it and play the game, type
 ```
     .\Snake_ladder.exe
 ```
